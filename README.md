@@ -4,7 +4,9 @@
 
 <p align="left">My name is Theo and I'm a 2nd year Bachelor of Information Technology student.</p>
 
-<p align="left">Slowly becoming Web Van Gogh 🎨</p>
+###
+
+<p align="left">I document my learning journey over on DEV community, go have a look 🧑🏼‍💻</p>
 
 ###
 
@@ -29,6 +31,9 @@
 ###
 
 <div align="left">
+  <a href="https://dev.to/codedbytheo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=F6CBCC&logoColor=black&labelColor=&style=for-the-badge" height="40" alt="devto logo"  />
+  </a>
   <a href="https://twitter.com/codedbytheo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=ADD8E6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
