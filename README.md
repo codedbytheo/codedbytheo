@@ -31,8 +31,6 @@
 ###
 
 <p align="left">most recent blogs...</p>
-<p>2023/09/12 | <a href="https://dev.to/codedbytheo/lets-become-cli-wizards-3o91" target="_blank" align="left">🔮 Let's become CLI wizards</a></p>
-<p>2023/09/17 | <a href="https://dev.to/codedbytheo/writing-good-commit-messages-2dh" target="_blank" align="left">🖊️ Writing good commit messages</a></p>
 
 ###
 
