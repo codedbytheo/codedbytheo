@@ -45,7 +45,4 @@
   <a href="https://twitter.com/codedbytheo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=ADD8E6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/snymanntheo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
 </div>
