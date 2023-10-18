@@ -34,6 +34,8 @@
 
 <p align="left">most recent blogs...</p>
 
+<p align="left">18/10/2023 | <a href="https://dev.to/codedbytheo/how-does-our-web-work-52f2" target="_blank">How does our web work?</a></p>
+
 ###
 
 <h2 align="left">My social media presence is lit</h2>
