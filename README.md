@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Theo and I'm a 2nd year Bachelor of Information Technology student.</p>
+<p align="left">My name is Theo and I'm a 2nd year Bachelor of Information Technology student. I'm either going to become a Fullstack Dev or DevOps Engineer...</p>
 
 ###
 
@@ -22,8 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
@@ -49,4 +47,6 @@
   <a href="https://twitter.com/codedbytheo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=ADD8E6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/snymanntheo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=779ECB&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
 </div>
