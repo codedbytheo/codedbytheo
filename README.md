@@ -2,27 +2,7 @@
 
 ###
 
-<p align="left">My name is Theo and I'm a 2nd year Bachelor of Information Technology student. I'm either going to become a Fullstack Dev or DevOps Engineer...</p>
-
-###
-
-<p align="left">I document my learning journey over on DEV community, go have a look 🧑🏼‍💻</p>
-
-###
-
-<h2 align="left">Tools of the trade</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+<p align="left">I'm Theo, a dedicated Information Technology student. I'm constantly seeking oppurtunity to enhance my skills and contribute meaningfully to the software development landscape.</p>
 
 ###
 
