@@ -2,7 +2,7 @@
 
 <h2 align="left">Information Technology Student</h2>
 
-<p align="left">As a soon-to-be graduate with a Bachelor of Information Technology under my belt, I'm currently honing my skills through Meta's back-end developer certificate. My sights are set on landing a full-time developer role by 2025, where I can leverage my passion for technology and solve real-world problems.</p>
+<p align="left">As a soon-to-be graduate with a Bachelor of Information Technology under my belt, I'm currently honing my skills through Meta's professional front-end developer certificate. My sights are set on landing a full-time developer role by 2025, where I can leverage my passion for technology and solve real-world problems.</p>
 
 <p align="left">🌍 I'm based in South Africa</p>
 <p align="left">✉️  You can contact me at <a href="mailto:snymanntheo@gmail.com">snymanntheo@gmail.com</a>
