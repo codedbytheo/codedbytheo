@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<h3 align="left">Explored Technologies</h3>
+<h2 align="left">Explored Technologies</h2>
 
 <p align="left">During my studies, I was exposed to a variety of technologies and tools. While I may not use all of them regularly, they have contributed to my understanding of various aspects of IT and software development.</p>
 
